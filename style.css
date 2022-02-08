@@ -1,0 +1,147 @@
+/* Autor: Igor Antônio Almeida Santos, 08/02/2022, 18:51 */
+
+body {
+    margin: 0%;
+}
+
+h1 {
+    margin: 5% 0% 3% 0%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.gradiente1 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(167, 12, 12) 30%, rgb(70, 163, 70), rgb(77, 13, 64), yellow);
+    
+}
+
+.gradiente2 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgba(0, 255, 0, 0.651) 30%, rgb(15, 112, 150), rgb(204, 23, 23), rgb(0, 255, 157));
+    
+}
+
+.gradiente3 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(25, 44, 133) 30%, rgb(153, 212, 129), rgb(144, 144, 219), rgb(88, 24, 148));
+    
+}
+
+.gradiente4 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(248, 66, 142) 30%, rgb(155, 233, 155), rgb(206, 206, 247), rgb(226, 226, 126));
+    
+}
+
+.gradiente5 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(18, 94, 62) 30%, rgb(91, 141, 91), rgb(100, 100, 117), rgb(91, 174, 207));
+    
+}
+
+.gradiente6 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(67, 128, 94) 30%, rgb(48, 142, 165), rgb(212, 0, 255), rgb(199, 111, 10));
+    
+}
+
+.gradiente7 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(80, 117, 97) 30%, rgb(153, 161, 29), rgb(185, 147, 111), rgb(124, 81, 31));
+}
+
+.gradiente8 {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to right, rgb(0, 0, 0) 30%, rgb(126, 17, 17), rgb(145, 11, 51), rgb(255, 0, 179));
+    
+}
+
+.imagem1 {
+    background-image: url(img/freyord.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    margin-bottom: 5px;
+    
+}
+
+.imagem2 {
+    background-image: url(img/card1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+    margin-bottom: 5px;
+    
+}
+
+.imagem3 {
+    background-image: url(img/card2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+    margin-bottom: 5px;
+    
+}
+
+.imagem4 {
+    background-image: url(img/card3.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    margin-bottom: 5px;
+    
+}
+
+.imagem5 {
+    background-image: url(img/card5.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    margin-bottom: 5px;
+    
+
+}
+
+.gif1 {
+    background-image: url(img/gifrosto.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 900px;
+    margin-bottom: 5px; 
+}
+
+.gif2 {
+    background-image: url(img/gifrosto2.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 900px;
+    margin-bottom: 5px; 
+}
+
+.gif3 {
+    background-image: url(img/gifrosto3.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    margin-bottom: 5px; 
+}
+
